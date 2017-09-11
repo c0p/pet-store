@@ -5,7 +5,9 @@ body {
 #store-name {
     color:#FF9797; /*BLue Color*/
     font-family: Verdana;
-    font-size:35px;
+    font-size:50px;
+    margin-bottom: 100px;
+    letter-spacing:10px;
 }
 
 
@@ -22,5 +24,10 @@ body {
 .individual-pet img {
     height:300px;
     width:400px;
+    border-radius: 3%;
     
+}
+
+.individual-pet {
+	margin-bottom: 100px;
 }
