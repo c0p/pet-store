@@ -1,9 +1,9 @@
 body {
-    background-color: #FFF2F2; /* Pastel Color */
+    background-color: #D8F3C9; /* Pastel Color */
 }
 
 #store-name {
-    color:#FF9797; /*BLue Color*/
+    color:#B96A9A; /*BLue Color*/
     font-family: Verdana;
     font-size:50px;
     margin-bottom: 100px;
@@ -30,4 +30,8 @@ body {
 
 .individual-pet {
 	margin-bottom: 100px;
+}
+
+.individual-pet h2 {
+	color:#D889B8;
 }
